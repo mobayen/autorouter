@@ -1,0 +1,14 @@
+{
+    "name": "saintmim/autorouter",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^7.19"
+    },
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "saint mim",
+            "email": "mobayen.mreza@gmail.com"
+        }
+    ]
+}
